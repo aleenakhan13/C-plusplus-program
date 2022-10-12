@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    char aleena[30];
+    cout<<"Enter Your Name: ";
+    cin>>aleena;
+    cout<<"\nHello "<<aleena<<"\n i'm  just a girl who choose to code!";
+    cout<<endl;
+    return 0;
+}
